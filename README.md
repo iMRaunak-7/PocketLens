@@ -1,1 +1,3 @@
 # PocketLens
+
+FINANCE ASSISTANCE APP
