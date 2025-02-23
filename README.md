@@ -1,4 +1,4 @@
 # PocketLens
 
 FINANCE ASSISTANCE APP
-By: Raunak
+BY: Raunak
